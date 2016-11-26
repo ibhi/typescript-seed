@@ -1,0 +1,18 @@
+{
+  "name": "typescript-seed",
+  "version": "0.0.1",
+  "description": "Typescript seed project with webpack",
+  "main": "app.js",
+  "scripts": {
+    "start": "webpack-dev-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ibhi",
+  "license": "MIT",
+  "devDependencies": {
+    "ts-loader": "^1.2.2",
+    "tslint": "^4.0.2",
+    "tslint-loader": "^3.2.0",
+    "webpack-dev-server": "^1.16.2"
+  }
+}
